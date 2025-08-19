@@ -12,7 +12,7 @@ This project replicates the basic UI of Netflix platform, focusing on layout, st
 
 Website Link - http://127.0.0.1:5500/Netflix_Project/index.html
 
-Github Link - https://github.com/RupeshLimje12/Amazon-Clone
+Github Link - https://github.com/RupeshLimje12/Netflix-clone
 
 **Problem Statement -**
 
@@ -45,5 +45,16 @@ CSS3 – Styling and responsiveness
 
 **Snapshot of Project -**
 
-"C:\Users\rupes\OneDrive\Pictures\Screenshots\Screenshot 2025-08-19 194740.png"
+<img width="1884" height="731" alt="Screenshot 2025-08-19 194740" src="https://github.com/user-attachments/assets/aaaf5250-84c3-4c42-98d5-653ead23b0bd" />
+
+<img width="1893" height="637" alt="Screenshot 2025-08-19 194807" src="https://github.com/user-attachments/assets/6cedc066-619e-4c03-ae72-d9f1dff389ba" />
+
+<img width="1880" height="867" alt="Screenshot 2025-08-19 194836" src="https://github.com/user-attachments/assets/3a783754-ee44-46fa-9dbd-a90ffccbe00a" />
+
+<img width="1878" height="877" alt="Screenshot 2025-08-19 194923" src="https://github.com/user-attachments/assets/d38c0b77-504b-4653-853c-71af04ab9690" />
+
+<img width="1877" height="883" alt="Screenshot 2025-08-19 195000" src="https://github.com/user-attachments/assets/41aa4ff3-26bd-4474-9f2d-3eecdbed75d5" />
+
+
+
 
